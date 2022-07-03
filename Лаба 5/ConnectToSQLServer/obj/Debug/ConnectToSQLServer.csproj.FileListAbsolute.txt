@@ -1,0 +1,53 @@
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe.config
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.pdb
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\MainWindow.g.cs
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\App.g.cs
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer_MarkupCompile.cache
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer_MarkupCompile.lref
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\MainWindow.baml
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.g.resources
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.Properties.Resources.resources
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.GenerateResource.cache
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+C:\Users\4labs\source\repos\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csprojAssemblyReference.cache
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe.config
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.pdb
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csprojAssemblyReference.cache
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\MainWindow.g.cs
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\App.g.cs
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer_MarkupCompile.cache
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer_MarkupCompile.lref
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\MainWindow.baml
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.g.resources
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.Properties.Resources.resources
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.GenerateResource.cache
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.CoreCompileInputs.cache
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+D:\Лаб 4 (SQL)\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe.config
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.exe
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\bin\Debug\ConnectToSQLServer.pdb
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csprojAssemblyReference.cache
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\MainWindow.g.cs
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\App.g.cs
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer_MarkupCompile.cache
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer_MarkupCompile.lref
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\MainWindow.baml
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.g.resources
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.Properties.Resources.resources
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.GenerateResource.cache
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.csproj.CoreCompileInputs.cache
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.exe
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\ConnectToSQLServer.pdb
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\Performers.g.cs
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\Records.g.cs
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\Trade.g.cs
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\Performers.baml
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\Records.baml
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\Trade.baml
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\EditRecords.g.cs
+D:\Проекты VS\Курсовая\ConnectToSQLServer\ConnectToSQLServer\obj\Debug\EditRecords.baml

@@ -1,0 +1,27 @@
+﻿<Window x:Class="ConnectToSQLServer.Performers"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConnectToSQLServer"
+        mc:Ignorable="d"
+        Title="Performers" Height="450" Width="800">
+    <Grid Background="Beige">
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="116,34,0,0" Width="160" FontSize="16"><Run Text="Гурт та"/><Run Text=" його"/><Run Text=" "/><Run Text="платівки"/></TextBlock>
+        <Button Content="До головної" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="640,351,0,0" Height="36" Background="IndianRed" Click="GoToMainWin_Click" FontSize="16"/>
+        <DataGrid Name="PerformersRecordsDG" Height="191" Margin="39,61,442.6,0" VerticalAlignment="Top" RenderTransformOrigin="-0.188,0.194"/>
+        <DataGrid Name="PerformersMusicansDG" Height="191" Margin="398,61,33.6,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="533,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" FontSize="16"><Run Text="Склад гурт"/><Run Text="у"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="7" Margin="184,295,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="6"/>
+        <TextBox Name ="InputGroup" HorizontalAlignment="Left" Height="23" Margin="94,316,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" Text="Kiss"/>
+        <TextBlock HorizontalAlignment="Left" Margin="116,280,0,0" TextWrapping="Wrap" Text="Введіть назву гурту" VerticalAlignment="Top" Width="147" FontSize="16"/>
+        <Button Content="Пошук" HorizontalAlignment="Left" VerticalAlignment="Top" Width="86" RenderTransformOrigin="1.891,15.648" Margin="143,358,0,0" Height="25" Click="SerchPerformers_Click"/>
+        <Button Content="Додати" HorizontalAlignment="Left" Margin="685,278,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="AddSkladButton_Click"/>
+        <TextBox Name="ID" HorizontalAlignment="Left" Height="23" Margin="418,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="33"/>
+        <TextBox Name="Musicans" HorizontalAlignment="Left" Height="23" Margin="482,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="183"/>
+        <TextBlock HorizontalAlignment="Left" Margin="398,278,0,0" TextWrapping="Wrap" Text="ID" VerticalAlignment="Top" FontSize="16"/>
+        <Button Content="Видалити" HorizontalAlignment="Left" Margin="685,316,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="DelSkladButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="533,257,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="83" Text="Виконавець" FontSize="14"/>
+    </Grid>
+</Window>

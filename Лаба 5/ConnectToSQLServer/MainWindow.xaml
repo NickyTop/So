@@ -1,0 +1,19 @@
+﻿<Window x:Class="ConnectToSQLServer.MainWindow"
+        WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConnectToSQLServer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid Background="Beige">
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="273,10,0,0" Height="19" Width="276" Text="Інофрмаційна система музчного магазину" FontSize="14"/>
+        <Button Content="Платівки" HorizontalAlignment="Left" Margin="86,120,0,0" VerticalAlignment="Top" Width="150" Height="55" Click="Records_Click" Background="#D1B798" FontSize="18"/>
+        <Button Content="Виконавці" HorizontalAlignment="Left" Margin="86,213,0,0" VerticalAlignment="Top" Width="150" Height="55" Click="Performers_Click" Background="#D1B798" FontSize="18"/>
+        <Button Content="Торгівля" HorizontalAlignment="Left" Margin="86,304,0,0" VerticalAlignment="Top" Width="150" Height="55" Click="Trade_Click" Background="#D1B798" FontSize="18"/>
+        <Button Content="Вихід" HorizontalAlignment="Left" VerticalAlignment="Top" Width="116" Margin="618,304,0,0" Height="55" Background="LightSalmon" FontSize="18" Click="Exit_Click"/>
+
+
+    </Grid>
+</Window>
